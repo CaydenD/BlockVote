@@ -1,0 +1,6 @@
+Login System
+- Unique VoterID
+- on first login, require password to be set
+	- do not allow to vote on first login, (register)
+	- send confirmation email of register 
+	- optional (establish key pair for explicit end-to-end encryption)
