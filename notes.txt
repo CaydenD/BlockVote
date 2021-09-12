@@ -8,3 +8,13 @@ Login System
 	- verify the user
 	- use key pair to encrypt further communication 
 	- allow user to move on to voting pages
+
+point system for votes
+	- ranking system
+		- ranked 1st, most points
+		- ranked last, least points
+
+Admin Page for who is hosting election
+- set who candidates
+- set who can vote
+- set type of election
